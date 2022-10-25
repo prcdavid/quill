@@ -47,4 +47,4 @@ cd ..
 # git push origin v$VERSION
 # git push origin master
 
-npm publish --tag dev
+npm publish --access public --tag dev
